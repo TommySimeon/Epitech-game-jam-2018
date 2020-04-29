@@ -1,7 +1,6 @@
 # Epitech-game-jam-2018
 Jeux realisé en un week end lors de la Epitech game jam 2018 avec comme theme imposé "Escape"
 
-
 ###############ESCAPE THE DUNGEON#############
 2 Players :
 First player -> run the game -> if windows launch the .exe
