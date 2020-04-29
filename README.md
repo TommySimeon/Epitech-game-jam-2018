@@ -10,9 +10,9 @@ Jeux realisé en un week end lors de la Epitech game jam 2018 avec comme theme i
 
                                          | if windows launch the .exe    |
 
-         First player -> run the game -> | if linux launch the .x86_64.  | -> play the game
-                             
-                                         | if MacOS launch the .dmg      |
+         First player -> run the game -> |                               | -> play the game
+                                         
+                                         | if linux launch the .x86_64.  |
 
 
          Second player -> go to "epitech-jam-escape.yo.fr/solver.html" 
