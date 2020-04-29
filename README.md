@@ -15,9 +15,10 @@ Jeux realisé en un week end lors de la Epitech game jam 2018 avec comme theme i
                                       | if MacOS launch the .dmg      |
 
 
-Second player -> go to "epitech-jam-escape.yo.fr/solver.html"
-
-              -> help the player one to escape the dungeon
+      Second player -> go to "epitech-jam-escape.yo.fr/solver.html" 
+                    
+                    -> help the player one to escape the dungeon
+                 
 
 
 ENJOY !!
