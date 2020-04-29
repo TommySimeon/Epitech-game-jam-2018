@@ -7,7 +7,7 @@ Jeux realisé en un week end lors de la Epitech game jam 2018 avec comme theme i
 First player -> run the game -> if windows launch the .exe
                              -> if linux .x86_64
                              -> if MacOS .dmg
-             -> play the game
+                             -> play the game
 
 Second player -> go to "epitech-jam-escape.yo.fr/solver.html"
               -> help the player one to escape the dungeon
